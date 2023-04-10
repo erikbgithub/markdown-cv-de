@@ -13,79 +13,79 @@ Game Developer, Teacher, Software Engineer
 
 ## Currently
 
-Standing on the shoulders of giants
+Building enticing environments to learn coding.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Godot, Python, Linux, Open Source
 
+
+## Occupation
+
+`05/2022 - 02/2023`
+__self employeed__, Potsdam+Berlin
+
+An attempt at building a leadership coaching business. Got 1 customer, but the
+project turned out to be a greater success in the area of teaching programming
+than coaching leadership. In some ways that might have layed the groundwork
+for my current activities in game development and volunteer teaching, which
+are both pretty fulfilling and feel more in alignment with my purpose and
+skills.
+
+`05/2021 - 05/2022`
+__In search of self__, Heidelberg+Potsdam
+
+In this time I did a lot of different trainings, workshops, online courses and
+art projects and grew my foundation beyond my developer experience in business,
+coaching, agile, art and even acting domains.
+
+`06/2020 - 04/2021`
+__Senior Software Engineer__, Walldorf
+
+As part of a diverse team of Red Hat (my employer), SAP, and IBM people, we
+integrated a new virtual machine technology (kubevirt) into our existing
+Kubernetes (Openshift) tech stacks.
+
+`06/2019 - 05/2020`
+__Senior Openshift Consultant__, Munich, Remote
+
+I went to customers and helped plan and install Openshift (the Red Hat
+Kubernetes) environments.
+
+`03/2017 - 05/2019`
+__Software Engineer__, Walldorf
+
+Coming in as Python tooling developer, I quickly adopted to the new trend
+and worked with my team to integrate our distributed database landscape into
+the growing Kubernetes world.
+
+`2007 - 2016`
+__Working Student__, Berlin+Wildau
+
+Various smaller roles as software engineer.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Getting people to enjoy learning.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021`
+__MBA Essentials__, London School of Economics
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014`
+__Master of Engineering, Telematics__, TH Wildau
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2009`
+__Bachelor of Engineering, Telematics__, TH Wildau
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+TODO
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+TODO
