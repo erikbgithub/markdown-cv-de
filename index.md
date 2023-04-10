@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Erik's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Erik Bernoth
+Game Developer, Teacher, Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="erik.bernoth+ghpage@gmail.com">erik.bernoth+ghpage@gmail.com</a>
+| <a href="https://linktr.ee/daretoconnect">My Links</a>
 </div>
 
 
