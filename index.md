@@ -81,6 +81,29 @@ __Master of Engineering, Telematics__, TH Wildau
 __Bachelor of Engineering, Telematics__, TH Wildau
 
 
+# Certificates
+
+`2021`
+__MBA Essentials__, London School of Economics
+
+`2021`
+__ICAgile Team Facilitator, ICP-ATF__, Leadership Tribe
+
+`2021`
+__Team Kanban Practicioner__, IT-agile GmbH
+
+`2021`
+__Toastmasters SpeechCraft__, Toastmasters
+
+`2021`
+__ICAgile Coach, ICP-ACC__, Coach2Reach
+
+`2012`
+__Software Tester, Foundation Level__, ISTQB
+
+`2011`
+__Intro to Artificial Intelligence__, Udacity
+
 
 ## Awards
 
