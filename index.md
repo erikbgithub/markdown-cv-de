@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Erik's CV
+title: Erik's Lebenslauf
 ---
 # Erik Bernoth
-Game Developer, Teacher, Software Engineer
+Game Developer, Lehrer, Software Engineer
 
 <div id="webaddress">
 <a href="erik.bernoth+ghpage@gmail.com">erik.bernoth+ghpage@gmail.com</a>
@@ -13,31 +13,29 @@ Game Developer, Teacher, Software Engineer
 
 ## Currently
 
-Building enticing environments to learn coding.
+Motivierende Umgenbungen bauen um coden zu lernen.
 
 ### Specialized in
 
-Godot, Python, Linux, Open Source
+Godot, Pyxel, Python, Linux, Open Source
 
 
 ## Occupation
 
 `05/2022 - 02/2023`
-__self employeed__, Potsdam+Berlin
+__selbstständig__, Potsdam+Berlin
 
-An attempt at building a leadership coaching business. Got 1 customer, but the
-project turned out to be a greater success in the area of teaching programming
-than coaching leadership. In some ways that might have layed the groundwork
-for my current activities in game development and volunteer teaching, which
-are both pretty fulfilling and feel more in alignment with my purpose and
-skills.
+Ein Versuch ein Leadership Coaching Business zu bauen. Ich hatte einen Kunden,
+aber das Projekt war letztendlich ein größerer Erfolg darin einen Werkstudenten
+in Programmieren zu unterrichten als darin das Leadership Team zu coachen. Das
+hat wohl in einigen Punkten die Grundsteine gelegt für meine aktuellen
+Tätigkeiten, welche zugegebener Maßen sich auch mehr so anfühlen wie mein
+Bereich.
 
 `05/2021 - 05/2022`
-__In search of self__, Heidelberg+Potsdam
+__Auf der Suche nach meinem Ich__, Heidelberg+Potsdam
 
-In this time I did a lot of different trainings, workshops, online courses and
-art projects and grew my foundation beyond my developer experience in business,
-coaching, agile, art and even acting domains.
+In dieser Zeit habe ich viele Weiterbildungen, Workshops, Online Kurse und Kunstprojekte gemacht und damit meine Erfahrungen über die reine Software Entwicklung heraus erweitert, etwas über Business, Coaching, Agile und Kunst gelernt.
 
 `06/2020 - 04/2021`
 __Senior Software Engineer__, Walldorf
@@ -46,27 +44,29 @@ As part of a diverse team of Red Hat (my employer), SAP, and IBM people, we
 integrated a new virtual machine technology (kubevirt) into our existing
 Kubernetes (Openshift) tech stacks.
 
+Als Teil eines diversen Teams aus Red Hattern (Mein Arbeitgeber), SAPlern, und IBMern haben wir die neue VM Technologie Kubevirt in unsere existierenden Kubernetes Tech Stacks eingebaut.
+
 `06/2019 - 05/2020`
 __Senior Openshift Consultant__, Munich, Remote
 
-I went to customers and helped plan and install Openshift (the Red Hat
-Kubernetes) environments.
+Kundenbesuche vor Ort um Kubernetes (Openshift) Landschaften aufzubauen.
 
 `03/2017 - 05/2019`
 __Software Engineer__, Walldorf
 
-Coming in as Python tooling developer, I quickly adopted to the new trend
-and worked with my team to integrate our distributed database landscape into
-the growing Kubernetes world.
+Über den Einstieg als Python Tooling Entwickler bin ich schnell auf den
+Kubernetes Trend aufgestiegen und habe geholfen unsere verteilte Datenbank
+Landschaft auf die entstehende Kubernetes Technologie umzusetzen.
 
 `2007 - 2016`
-__Working Student__, Berlin+Wildau
+__Werkstudent__, Berlin+Wildau
 
-Various smaller roles as software engineer.
+Verschiedene kleinere Rollen als Software Entwickler.
 
 ### Research interests
 
-Getting people to enjoy learning.
+Leuten mehr Spaß und Motivation bei der Erlernung neuer, besonders digitaler
+Technologien zu verschaffen.
 
 
 ## Education
@@ -75,10 +75,10 @@ Getting people to enjoy learning.
 __MBA Essentials__, London School of Economics
 
 `2014`
-__Master of Engineering, Telematics__, TH Wildau
+__Master of Engineering, Telematik__, TH Wildau
 
 `2009`
-__Bachelor of Engineering, Telematics__, TH Wildau
+__Bachelor of Engineering, Telematik__, TH Wildau
 
 
 # Certificates
