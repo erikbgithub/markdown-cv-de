@@ -11,16 +11,16 @@ Game Developer, Lehrer, Software Engineer
 </div>
 
 
-## Currently
+## Aktuell
 
 Motivierende Umgenbungen bauen um coden zu lernen.
 
-### Specialized in
+### Spezialisiert In
 
 Godot, Pyxel, Python, Linux, Open Source
 
 
-## Occupation
+## Beschäftigung
 
 `05/2022 - 02/2023`
 __selbstständig__, Potsdam+Berlin
@@ -63,13 +63,13 @@ __Werkstudent__, Berlin+Wildau
 
 Verschiedene kleinere Rollen als Software Entwickler.
 
-### Research interests
+### Forschungsinteressen
 
 Leuten mehr Spaß und Motivation bei der Erlernung neuer, besonders digitaler
 Technologien zu verschaffen.
 
 
-## Education
+## Bildung
 
 `2021`
 __MBA Essentials__, London School of Economics
@@ -81,7 +81,7 @@ __Master of Engineering, Telematik__, TH Wildau
 __Bachelor of Engineering, Telematik__, TH Wildau
 
 
-# Certificates
+## Zertifikate
 
 `2021`
 __MBA Essentials__, London School of Economics
