@@ -1,14 +1,14 @@
 # markdown-cv
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS. This is a fork.
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+For more details, see the [project page](http://erikbgithub.github.io/markdown-cv-de), or the blog post from the original author on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
 ***
 
 ## Customization
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+Simply [fork the original markdown-cv repo](https://github.com/elipapa/markdown-cv)
 
 ![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
