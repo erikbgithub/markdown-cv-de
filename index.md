@@ -6,7 +6,7 @@ title: Erik's Lebenslauf
 Game Developer, Lehrer, Software Engineer
 
 <div id="webaddress">
-<a href="erik.bernoth+ghpage@gmail.com">erik.bernoth+ghpage@gmail.com</a>
+<a href="monimagspielen@gmx.de">monimagspielen@gmx.de</a>
 | <a href="https://linktr.ee/daretoconnect">My Links</a>
 </div>
 
