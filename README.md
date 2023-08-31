@@ -20,6 +20,12 @@ adding your skills, jobs and education.
 
 ![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
+## Generate PDFs
+
+```
+pandoc -f html -t pdf -o cv-de.pdf https://erikbgithub.github.io/markdown-cv-de/
+```
+
 ## Distribution
 
 To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
