@@ -103,12 +103,3 @@ __Software Tester, Foundation Level__, ISTQB
 
 `2011`
 __Intro to Artificial Intelligence__, Udacity
-
-
-## Awards
-
-TODO
-
-## Publications
-
-TODO
