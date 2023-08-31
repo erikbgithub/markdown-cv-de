@@ -13,14 +13,36 @@ Game Developer, Lehrer, Software Engineer
 
 ## Aktuell
 
-Motivierende Umgenbungen bauen um coden zu lernen.
+* Menschen helfen, glücklicher zu sein.
+* Motivierende Umgenbungen bauen um coden zu lernen.
+* Meine 10+ Jahre Erfahrung in der IT Industrie nutzen,
+  um anderen den Umgang mit Computern zu erleichtern.
 
 ### Spezialisiert In
 
-Godot, Pyxel, Python, Linux, Open Source
+Menscheln :), Godot, Pyxel, Python, Linux, Open Source
 
 
 ## Beschäftigung
+
+`05/2022 - heute`
+__Living Together__, Berlin+Brandenburg
+
+Neue Formen des Zusammenlebens finden mit WGs, selbstgebauten Familien,
+Business Partnerschaften, meinem Coaching Training, der Berliner Spirituellen
+Community. Im Moment im sechsten Anlauf.
+
+`02/2023 - heute`
+__Play2Learn__, Berlin
+
+Spiele bauen, zum Programmieren lernen. Z.B. auch zusammen mit REDI School of
+Integration Kindern Programmierkurse geben. Mit Kahoot und Scratch dazu
+Lernumgebungen bauen.
+
+`~08/2023 - heute`
+__ShareIT__, Berlin
+
+Menschen dabei helfen, den IT Teil ihrer Ideen leichter zu verwirklichen. z.B. mit YSEQ GmbH zusammen.
 
 `05/2022 - 02/2023`
 __selbstständig__, Potsdam+Berlin
